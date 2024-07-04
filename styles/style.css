@@ -151,3 +151,56 @@ body {
     width: 16px;
     margin-left: 5px;
    }
+   /*------------------------
+    last part
+   ----------------------- */
+   .feature{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+   }
+   .partition{
+    height: 270px;
+    width: 404px;
+   }
+   .last-headline{
+    font-weight: 700;
+    height: 60px;
+    width: 610px;
+    font-size: 38px;
+    line-height: 60px;
+   }
+   .headline-details{
+    color: #6C6C6C;
+    width: 501px;
+    height: 88px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-wrap: wrap;
+   }
+   .join{
+    width: 155px;
+    height: 44px;
+    background-color: #E02C6D;
+    color: white;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+   }
+   /*------------
+    footer
+    -------------*/
+    footer{
+      height: 239px;
+      border: none;
+      background-color: #0A0826;
+      margin-top: 150px;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .fa-brands{
+      color: white;
+    }
